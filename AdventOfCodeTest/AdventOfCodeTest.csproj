@@ -67,7 +67,9 @@
   </Choose>
   <ItemGroup>
     <Compile Include="BathroomCodeTest.cs" />
+    <Compile Include="CSharpBasics.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidTrianglesTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
